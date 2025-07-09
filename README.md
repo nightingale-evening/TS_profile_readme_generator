@@ -135,15 +135,4 @@ $ yarn dev
 - `test`: runs the tests;
 - `lint`: runs eslint in the /src directory.
 
-## :memo: License ##
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
-
-&#xa0;
-
 <a href="#top">Back to top</a>
-
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
